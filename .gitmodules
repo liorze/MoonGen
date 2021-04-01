@@ -1,3 +1,5 @@
 [submodule "libmoon"]
 	path = libmoon
-	url = https://github.com/liorze/libmoon
+	url = https://github.com/liorze/libmoon.git
+    branch = dpdk-19.11.7-lts
+    ignore = dirty
